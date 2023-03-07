@@ -27,4 +27,4 @@
     - Flesh out the Go endpoints to exapnd on features like adding more fields or formating options
     - Research how to store images more efficiently, this project converts the images to Base64 encoded strings which are easy to work with on a time constraint, but much larger than storing the actual file I believe.
     - Host the application myself on Vercel
-    - A few more things that I will save for any potential interviews
+    - A few more things that I will save to discuss later
